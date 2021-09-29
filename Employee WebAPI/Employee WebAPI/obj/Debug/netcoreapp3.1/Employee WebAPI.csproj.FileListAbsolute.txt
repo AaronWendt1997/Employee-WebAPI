@@ -1,0 +1,47 @@
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.exe
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.deps.json
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.runtimeconfig.json
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.runtimeconfig.dev.json
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.pdb
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.Views.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Employee WebAPI.Views.pdb
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.csproj.AssemblyReference.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.AssemblyInfoInputs.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.AssemblyInfo.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.RazorAssemblyInfo.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.RazorAssemblyInfo.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Employee WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Employee WebAPI.StaticWebAssets.xml
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Employee WebAPI.styles.css
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.TagHelpers.input.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.TagHelpers.output.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.RazorCoreGenerate.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.RazorTargetAssemblyInfo.cs
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.Views.pdb
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.csproj.CopyComplete
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.pdb
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\obj\Debug\netcoreapp3.1\Employee WebAPI.genruntimeconfig.cache
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\19207\OneDrive\Desktop\.Net\Employee WebAPI\Employee WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
